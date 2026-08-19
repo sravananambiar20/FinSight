@@ -42,6 +42,7 @@ An Isolation Forest model is used to identify potentially unusual transactions b
 
 ## 📁 Project Structure
 
+```text
 FinSight/
 │
 ├── Notebooks/
@@ -53,8 +54,9 @@ FinSight/
 │
 ├── app.py
 ├── requirements.txt
-├── FinSight_Analysis.ipynb
+├── FinSight_Analysis (1).ipynb
 └── README.md
+```
 
 ## ▶️ Run Locally
 
