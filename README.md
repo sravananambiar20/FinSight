@@ -69,6 +69,7 @@ Run the Streamlit application:
 streamlit run app.py
 
 ## 🌐 Live Application
+https://finsight-pd3thzqpspxqorhcxzmlqd.streamlit.app/
 
 FinSight is deployed using Streamlit Community Cloud.
 
